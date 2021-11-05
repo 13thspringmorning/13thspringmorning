@@ -4,7 +4,7 @@
 
   🔭 I’m a complete beginner, yet very curious and passionate one. 
   
-  🌱 I’m have learned HTML and CSS, and currently wrestling with JS.
+  🌱 I've learned HTML and CSS, and currently wrestling with JS.
   
   👯 I’m looking to collaborate on cool projects in the future.
   
