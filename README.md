@@ -2,7 +2,7 @@
 
 
 
-  🔭 I’m a complete beginner, yet very curious and passionate one. 
+  🔭 I’m a begginer fronted developer, very curious and passionate one. 
   
   🌱 I've learned HTML and CSS, and currently wrestling with JS.
   
